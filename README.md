@@ -1,7 +1,7 @@
 # Acerca del curso de Maquetación Web
 ### En este curso me gustaria aprender todo lo posible desde cero sobre maquetacion web
 
-# Acerca de Jairo CODE:
+# Acerca de Jairo-code943:
 #### ¡Hola! ¡Yo soy Jairo clayton y soy Maquetador web Html,CSS!  me dedico a la tecnología, programación . Con mucho orgullo he podido dar clases en la Universidad y además en diversos cursos online acerca de desarrollo web
 
 Me pueden encontrar en: 
